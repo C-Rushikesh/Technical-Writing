@@ -1,10 +1,10 @@
 ## ChatGPT is not reliable, Here's Why. ##
 
-(![image](https://user-images.githubusercontent.com/127011846/222949519-096e8cd0-6d15-44e5-ab4f-766d408e5ef8.png)
+![image](https://user-images.githubusercontent.com/127011846/222949519-096e8cd0-6d15-44e5-ab4f-766d408e5ef8.png)
 
 Recently Open AI has launched its new program called Chat GPT. Its purpose is to provide results for anything asked. A tagline for your ice-cream parlour, a code for your app or a friend for texting, Chat GPT offers it all. This indicates humans have reached the pinnacle of AI and it is time for us to rest and automate everything. Well not so early. Open AI has made a good attempt though not so successful. 
 
-![alt text](![image](https://user-images.githubusercontent.com/127011846/222949485-71c8571d-1886-4fef-9174-0e91691fa6ec.png)
+![image](https://user-images.githubusercontent.com/127011846/222949485-71c8571d-1886-4fef-9174-0e91691fa6ec.png)
 
 Throughout history from fiction like Frankenstein, Westworld, and Terminator to real-life examples of DALL.E2, Midjourney AI and VR we have seen various attempts have been made to create a piece of machinery that will replicate humans.
 Since the late 90s technology has brought humans close to each other. Though it has yet to replace them.
@@ -12,7 +12,7 @@ In recent years we have seen AI softwares with the ability to create images from
 
 In the last five years, banks have introduced mechanical communication. Machines answer basic customer queries through chatbots. Customers understand no human is interacting with them asking 'May I help you?', but a programmed software. Questions in businesses like banking are limited, they revolve around specific topics. Chatbots continue to proliferate in businesses around question-specific topics. They are used in many places from the tourism business, hotel booking, flight ticket booking to demat account transactions. Although chatbots are useful, they cannot be used in all places. Moreover, there is no use for chatbots if you don't want to provide random information. Existing chatbots are ineffective in the creative field or the detailed information field.
 
-(![image](https://user-images.githubusercontent.com/127011846/222949457-126f67d3-2a90-46ff-8fd5-5c08a13372c1.png)
+![image](https://user-images.githubusercontent.com/127011846/222949457-126f67d3-2a90-46ff-8fd5-5c08a13372c1.png)
 
 For AI to create something, the machine needs to be constantly taught human interaction. As the machine learns, it will begin to anticipate human needs, expectations, and emotions, and it will communicate more accurately.
 
