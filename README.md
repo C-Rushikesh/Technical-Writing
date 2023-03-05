@@ -4,7 +4,7 @@
 
 Recently Open AI has launched its new program called Chat GPT. Its purpose is to provide results for anything asked. A tagline for your ice-cream parlour, a code for your app or a friend for texting, Chat GPT offers it all. This indicates humans have reached the pinnacle of AI and it is time for us to rest and automate everything. Well not so early. Open AI has made a good attempt though not so successful. 
 
-![image](https://user-images.githubusercontent.com/127011846/222949485-71c8571d-1886-4fef-9174-0e91691fa6ec.png)
+                      ![image](https://user-images.githubusercontent.com/127011846/222949485-71c8571d-1886-4fef-9174-0e91691fa6ec.png)
 
 Throughout history from fiction like Frankenstein, Westworld, and Terminator to real-life examples of DALL.E2, Midjourney AI and VR we have seen various attempts have been made to create a piece of machinery that will replicate humans.
 Since the late 90s technology has brought humans close to each other. Though it has yet to replace them.
