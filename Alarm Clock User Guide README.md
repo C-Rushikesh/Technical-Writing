@@ -1,8 +1,8 @@
-                                                                      RC Alarm Clock
-                                                                     Instruction Manual
+                                                                      #RC Alarm Clock#
+                                                                     #Instruction Manual#
 
 **Introduction:** Congratulations on your purchase of the RC Alarm Clock with Radio Controlled Time, Calendar, 12/24 Hour Display, and Two Alarm Setting. This cutting-edge item is perfect for usage at home or at the office. To take full advantage of all the features, please read the user guide.
- ![alt text](image.jpg)
+ 
  Features:
 •	12/24 hour time display
 •	Manual and Automatic ON/OFF daylight saving time
@@ -25,9 +25,9 @@ The clock consists of five buttons:
      Used to choose and verify the different setup modes.
 **MODE/+:** To change or select any changeable or selectable values or displays when in setting mode.
 **ALM/Hour:** Activates Alarm (1) setting mode. 
-          Disables alarm sound.
+              Disables alarm sound.
 **ALM2/Min:** Activates Alarm (2) setting mode. 
-          Enables alarm sound.
+              Enables alarm sound.
 **Snooze:** Used to turn on alarm snooze.
 
 **Setting an alarm:**
