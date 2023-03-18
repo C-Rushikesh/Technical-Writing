@@ -1,5 +1,5 @@
-                                                                      #RC Alarm Clock#
-                                                                     #Instruction Manual#
+                                                                      #H1RC Alarm Clock 
+                                                                      Instruction Manual
 
 **Introduction:** Congratulations on your purchase of the RC Alarm Clock with Radio Controlled Time, Calendar, 12/24 Hour Display, and Two Alarm Setting. This cutting-edge item is perfect for usage at home or at the office. To take full advantage of all the features, please read the user guide.
  
